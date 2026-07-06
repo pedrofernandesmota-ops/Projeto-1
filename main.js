@@ -1,1 +1,2 @@
-alert("Olá mundo!")
+const botoes = document.querySelector
+console.log(botoes)
