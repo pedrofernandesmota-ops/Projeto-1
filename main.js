@@ -9,6 +9,9 @@ botoes.forEach(function (botao){
         let texto = document.querySelector("span")
         if(curtiu == false) {
             texto.textContent++;
+        }else{
+            texto.texContent--;
+            curtiu = false
         }
     }
 })
